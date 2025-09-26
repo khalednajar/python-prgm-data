@@ -1,2 +1,5 @@
 # python-prgm-data
-Programmes Python pour la Data et Big Data
+Programmes Python pour la Data et la Big Data
+Faire attention aux fichiers en entrées
++ 10 fichiers
+
